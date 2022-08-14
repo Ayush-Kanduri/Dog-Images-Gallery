@@ -44,3 +44,11 @@ button {
 	min-height: 300px;
 	margin: 20px;
 }
+
+@media screen and (max-width: 400px) {
+	form {
+		align-items: center;
+		gap: 2rem;
+		flex-direction: column;
+	}
+}
