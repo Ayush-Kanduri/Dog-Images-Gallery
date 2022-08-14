@@ -7,11 +7,13 @@
 
 ## ⭐ Introduction
 
-This project uses the Dog CEO API to fetch all the images of the dog's breed or sub-breed.<br/>
-This API Web App uses the Async-Await & Promises for the fetch() API calls.<br/>
-It also implements a setTimeout() for the Asynchronicity of the website.<br/>
-It is built using HTML, CSS, Javascript.
-<br/>
+This project uses the Dog CEO API to fetch all the images of the dog's breed or sub-breed.
+
+-  This API Web App uses the Async-Await & Promises for the fetch() API calls.
+-  It also implements a setTimeout() for the Asynchronicity of the website.
+-  It is built using HTML, CSS, Javascript.
+   <br/>
+   <br/>
 
 ## 🔥 Getting Started With The Project
 
