@@ -1,5 +1,5 @@
 # 𝐃𝐨𝐠 𝐈𝐦𝐚𝐠𝐞𝐬 𝐆𝐚𝐥𝐥𝐞𝐫𝐲 🚀
-
+ 
 <br/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76626529/184529261-16fc2133-730a-4af3-a792-672486b1a654.png">
